@@ -1,2 +1,1 @@
-# MyProject
-## project notes
+HELLO WORLD
